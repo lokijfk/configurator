@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+	<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+    <UseCommonOutputDirectory>true</UseCommonOutputDirectory>
+	<OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <BaseOutputPath>..\bin\</BaseOutputPath>
+	  <OutputPath>..\bin\</OutputPath>
+    <ApplicationIcon>setting_cogwheel_icon_231386.ico</ApplicationIcon>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
+    <GenerateDocumentationFile>False</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="setting_cogwheel_icon_231386.ico" />
+  </ItemGroup>
+
+</Project>

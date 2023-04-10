@@ -1,0 +1,28 @@
+ikona pochodzi z:
+https://icon-icons.com/download/231386/ICO/32/
+https://icon-icons.com/packs-of-icons
+
+[GIT]
+ - wyeksportowaæ na gita
+ - dodaæ gitignore ne katalog z tym plikiem i na katalog bin
+ - opublikowaæ na git z dwoma wersjami jêzykowymi
+
+
+- dodaæ sprawdzanie czy da siê zapisaæ plik ini w bierz¹cym katalogu !!
+- dodaæ zmianê jêzyka na gui i wraper tylko z jêzykiem angielskim lub z odczytem rodzaju jêzyka z settings ini
+
+- dodaæ wspó³pracê z advencet Compiler papyrus i przycisk instalacji obu wraperów
+- gui ma siê odpowiednio zachowywaæ w zale¿noœci od zainstalowanego wrapera
+
+ - sprawdziæ na youtube  co ta kobieta wymyœli³a z instalacj¹ bo mo¿e robiê ko³o na nowo :P
+ tak robiê ko³o na nowo!
+
+ [GUI]
+ - dodaæ pole plik lub katalog do kompilacji
+ - tu mo¿na dodaæ wersjê jêzyka
+ - dodaæ odczyt z xml ??
+ - jak ogarnê xml i xsd to mozna powalczyæ o pliki ppj i do tego tylko gui bez cmd
+
+[deprecated]
+wraper w zasadzie jest do napisanie od nowa
+sprawdziæ inifile 4873 czydzia³a na  gui - dzia³a ale nie bêdê z tym walczy³
